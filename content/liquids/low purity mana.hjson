@@ -1,0 +1,7 @@
+name: Low Purity Mana
+description: low purity mana which made with sand
+temperature: 0.2
+viscosity: 0.3
+effect: shockwave
+color: 00FFFF
+research: sand

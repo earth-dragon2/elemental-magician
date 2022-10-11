@@ -1,0 +1,24 @@
+{
+type: GenericSmelter
+name: Mana Squeezer
+description: Squeezing mana
+size: 2
+hasItems: true
+hasLiquids: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      sand/10
+    ]
+  }
+}
+requirements: [
+  copper/40
+  Graphite/30
+]
+category: crafting
+research: mechanical-drill
+outputLiquid: Low-Purity-Mana/1
+}

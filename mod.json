@@ -1,0 +1,8 @@
+{
+name: "magic-mod"
+displayName: "MagicInHighTechWorld"
+author: "Bruhman Mods inc."
+description: "What if magic in high tech world so this mod appear."
+version: "0.1.0a"
+minGameVersion: "125"
+}

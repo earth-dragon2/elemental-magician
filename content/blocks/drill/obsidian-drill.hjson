@@ -1,0 +1,32 @@
+{
+name: Mana Infused Metal Drill
+description: A fast drill, cost power.
+type: Drill
+health: 500
+size: 2
+liquidCapacity: 10
+baseExplosiveness: 10
+rotateSpeed: 3.5
+hasPower: true
+updateEffect: oily
+updateEffectChance: 0.04
+tier: 5
+drillTime: 280
+floating: true
+consumes: {
+  power: 2.5
+  liquid: {
+    liquid: water
+    amount: 0.2
+    booster: true
+    optional: true
+  }
+}
+requirements: [
+  Mana-Infused-Metal/450
+  titanium/250
+  copper/50
+]
+category: production
+research: pneumatic-drill
+}

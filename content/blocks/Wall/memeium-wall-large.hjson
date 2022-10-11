@@ -1,0 +1,15 @@
+localizedName: Large Memeium Wall
+description:  Large memeium wall, do you know? noeearth_dragon code it and makes it error and wire, and i am now fucking fixing that shit. fuck you earth_dragon.
+type: Wall
+health: 4000
+size: 2
+chanceDeflect: 0.5
+lightningChance: 0.3
+lightningDamage: 60
+lightningLength: 20
+lightningColor: 000000
+requirements: [
+  memeium/4
+]
+category: defense
+research: memeium-wall
