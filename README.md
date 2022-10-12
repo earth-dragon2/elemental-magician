@@ -1,4 +1,4 @@
-# Magic Power Unlimited
+# Magic Power is Unlimited
 Magic which is an ancient power made by ancient human.This mod will remake and buff magic in this high tech world. Mod made by bruhman and Aleksandrov Vladimir Morozov#6432.
 
 ## The creators 
