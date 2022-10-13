@@ -10,3 +10,5 @@ Aleksandrov Vladimir Morozov#6432
 ### Other
 
 Any problem just post in issues but dont usually check it
+
+Some code are code copied from friend's mod so some file is not working
