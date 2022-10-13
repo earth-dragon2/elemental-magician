@@ -16,9 +16,9 @@ consumes: {
 }
 requirements: [
   copper/40
-  Graphite/30
+  graphite/30
 ]
 category: crafting
 research: mechanical-drill
-outputLiquid: Low-Purity-Mana/1
+outputLiquid: low-purity-mana/1
 }
