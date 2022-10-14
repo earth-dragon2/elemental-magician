@@ -1,8 +1,8 @@
 {
-name: "elements-magic-mod"
-displayName: "MagicInHighTechWorld"
-author: "Bruhman Mods inc."
-description: "What if magic in high tech world so this mod appear."
-version: "0.1.0a"
-minGameVersion: "125"
+"name": "elemental-magic-mod",
+"displayName": "Elemental magic mod",
+"author": "Bruhman Mods.",
+"description": "What if magic in high tech world so this mod appear.",
+"version": "0.1.0ea",
+"minGameVersion": 125
 }
