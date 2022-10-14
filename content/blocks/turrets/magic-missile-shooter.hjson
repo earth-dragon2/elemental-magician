@@ -11,7 +11,7 @@ shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 12
 ammoTypes: {
-  Mana-Infused-Metal: {
+  mana-infused-metal: {
     speed: 20
     damage: 8
     width: 2
@@ -23,9 +23,9 @@ ammoTypes: {
 }
 requirements: [    
   copper/70
-  Mana-Infused-Metal/100
+  mana-infused-metal/100
   titanium/50
 ]
 category: turret
-research: Mana-Infused-Metal
+research: mana-infused-metal
 }
