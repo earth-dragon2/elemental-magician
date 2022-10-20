@@ -3,22 +3,22 @@ type: ItemTurret
 name: Magic Missile Shooter
 description: shoot magic missile
 health: 200
-size: 1
-reloadTime: 8
+size: 2
+reloadTime: 25
 shootSound: gunShoot1
 range: 250
-shots: 1
+shots: 3
 ammoUseEffect: casing2
 rotateSpeed: 12
 ammoTypes: {
   mana-infused-metal: {
-    speed: 20
-    damage: 8
-    width: 2
-    height: 9
+    speed: 25
+    damage: 40
+    width: 14
+    height: 15
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    lifetime: 1000
+    lifetime: 500
   }
 }
 requirements: [    
