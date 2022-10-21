@@ -1,0 +1,34 @@
+{
+type: GenericSmelter
+name: Separator Extended
+description: this is a magic mod but the creator add this LAMO
+size: 2
+hasItems: true
+craftTime: 50
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    power: 200
+    items: [
+      scrap/5
+    ]
+  }
+}
+requirements: [
+  copper/50
+  titanium/30
+  lead/75
+  silicon/40
+]
+category: crafting
+research: separator
+results: [
+  copper/20
+  lead/15
+  graphite/5
+  titanium/5
+  silicon/3
+  nickel/1
+  chromium/0.5
+]
+}

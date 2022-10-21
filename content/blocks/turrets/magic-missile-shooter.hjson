@@ -20,6 +20,16 @@ ammoTypes: {
     smokeEffect: shootSmallSmoke
     lifetime: 500
   }
+ammoTypes: {
+  mana-over-infused-metal: {
+    speed: 30
+    damage: 100
+    width: 15
+    height: 16
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    lifetime: 500
+  }
 }
 requirements: [    
   copper/70

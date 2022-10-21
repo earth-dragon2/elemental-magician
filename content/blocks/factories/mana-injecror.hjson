@@ -21,8 +21,12 @@ consumes: {
 requirements: [
   copper/50
   titanium/20
+  nickel/60
 ]
 category: crafting
 research: mana-squeezer
-outputItem: mana-infused-metal/1
+results: [
+  mana-infused-metal/1000
+  mana-over-infused Metal/1
+]
 }
