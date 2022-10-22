@@ -14,7 +14,7 @@ consumes: {
     ]
   }
   liquid: {
-    liquid: low-purity-mana
+    liquid: inferior-mana
     amount: 0.5
   }
 }
@@ -27,6 +27,6 @@ category: crafting
 research: mana-squeezer
 results: [
   mana-infused-metal/1000
-  mana-over-infused Metal/1
+  mana-over-infused-metal/1
 ]
 }

@@ -16,8 +16,8 @@ floating: true
 consumes: {
   power: 2.5
   liquid: {
-    liquid: water
-    amount: 0.2
+    liquid: inferior-mana
+    amount: 1
     booster: true
     optional: true
   }
