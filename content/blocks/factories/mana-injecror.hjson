@@ -21,7 +21,7 @@ consumes: {
 requirements: [
   copper/50
   titanium/20
-  nickel/60
+  chromium/60
 ]
 category: crafting
 research: mana-squeezer

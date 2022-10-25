@@ -19,7 +19,7 @@ requirements: [
   graphite/30
   titanium/50
   lead/30
-  nickel/60
+  chromium/60
 ]
 category: crafting
 research: mechanical-drill
