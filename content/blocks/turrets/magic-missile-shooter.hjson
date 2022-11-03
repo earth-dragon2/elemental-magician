@@ -9,6 +9,10 @@ range: 250
 shots: 3
 ammoUseEffect: casing2
 rotateSpeed: 12
+shoot: {
+  type: ShootAlternate
+  shot: 3
+}
 ammoTypes: {
   mana-infused-metal: {
     frontColor: 18dede
@@ -20,7 +24,7 @@ ammoTypes: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     lifetime: 30
-    homingPower: 5
+    homingPower: 20
     homingRange: 10
   }
   mana-over-infused-metal: {
@@ -33,7 +37,7 @@ ammoTypes: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     lifetime: 30
-    homingPower: 5
+    homingPower: 20
     homingRange: 10
   }
 }
