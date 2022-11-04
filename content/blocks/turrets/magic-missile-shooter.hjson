@@ -11,7 +11,8 @@ ammoUseEffect: casing2
 rotateSpeed: 12
 shoot: {
   type: ShootAlternate
-  shot: 3
+  shots: 3
+  spread:15.5
 }
 ammoTypes: {
   mana-infused-metal: {
