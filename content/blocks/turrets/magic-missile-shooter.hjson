@@ -10,10 +10,21 @@ shots: 3
 ammoUseEffect: casing2
 rotateSpeed: 12
 shoot: {
-  type: ShootAlternate
-  shots: 3
-  spread: 15.5
+  type: ShootMulti
+  source: ShootAlternate
+  dest: [
+    {
+      type: ShootBarrel
+      shots: 3
+      barrels: [
+        31.5, 16, 0
+        6, 0, 0
+        -6, 0, 0
+      ]
+    }
+  ]
 }
+ammoPerShot: 3
 ammoTypes: {
   mana-infused-metal: {
     frontColor: 18dede

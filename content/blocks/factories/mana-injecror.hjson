@@ -1,5 +1,5 @@
 {
-type: GenericSmelter
+type: Separator
 name: Mana Injecror
 description: injector mana to something
 size: 2
