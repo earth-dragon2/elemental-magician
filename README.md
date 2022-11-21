@@ -1,7 +1,7 @@
 # THIS MOD FINALLY SUPPORT V7!!!!1!!1!11!!1!!!!1!111!!!
 
 
-# Magic Power is Unlimited
+# Some background 
 Magic which is an ancient power made by ancient human.This mod will remake and buff magic in this sci-fi world. Mod made by bruhman#1353.
 
 ## The creators 
