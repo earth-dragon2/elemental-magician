@@ -12,6 +12,10 @@ consumes: {
     items: [
       sand/10
     ]
+    liquid: [
+      water
+      amount: 1
+    ]
   }
 }
 requirements: [

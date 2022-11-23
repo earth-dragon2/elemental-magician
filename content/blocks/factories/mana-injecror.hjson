@@ -20,7 +20,7 @@ consumes: {
 }
 requirements: [
   copper/50
-  titanium/20
+  titanium/100
   chromium/60
 ]
 category: crafting
