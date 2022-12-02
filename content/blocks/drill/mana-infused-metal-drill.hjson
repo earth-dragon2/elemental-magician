@@ -26,6 +26,7 @@ requirements: [
   mana-infused-metal/450
   titanium/250
   copper/50
+  millennium/90
 ]
 category: production
 research: pneumatic-drill

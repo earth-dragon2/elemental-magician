@@ -57,7 +57,7 @@ requirements: [
   copper/70
   mana-infused-metal/100
   titanium/150
-  chromium/90
+  millennium/90
 ]
 category: turret
 research: mana-infused-metal
