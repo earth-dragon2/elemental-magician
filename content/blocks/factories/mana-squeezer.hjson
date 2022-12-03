@@ -20,7 +20,7 @@ consumes: {
 }
 requirements: [
   copper/50
-  grapmillennium/hite/30
+  millennium/hite/30
   titanium/50
   lead/30
   60
