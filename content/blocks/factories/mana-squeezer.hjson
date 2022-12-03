@@ -10,7 +10,7 @@ updateEffect: smeltsmoke
 consumes: {
   items: {
     items: [
-      sand/10
+      millennium/2
     ]
     liquid: [
       water
@@ -20,10 +20,10 @@ consumes: {
 }
 requirements: [
   copper/50
-  graphite/30
+  grapmillennium/hite/30
   titanium/50
   lead/30
-  millennium/60
+  60
 ]
 category: crafting
 research: mechanical-drill

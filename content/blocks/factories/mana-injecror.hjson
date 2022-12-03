@@ -27,7 +27,7 @@ requirements: [
 category: crafting
 research: mana-squeezer
 results: [
-  mana-infused-metal/1000
+  mana-infused-metal/100
   mana-over-infused-metal/1
 ]
 }
