@@ -9,8 +9,8 @@ updateEffect: smeltsmoke
 consumes: {
   items: {
     power: 200
-    items: [
-      scrap/5
+    liquid: [
+      slag/5
     ]
   }
 }
