@@ -6,12 +6,14 @@ size: 2
 hasItems: true
 craftTime: 50
 updateEffect: smeltsmoke
-drawer: {
-  type: DrawDefault
-  drawers: [
+drawers: [
     {
       type: DrawRegion
       suffix: -bottom
+    }
+    {
+      type: DrawLiquidTile
+      drawLiquid: slag
     }
     {
       type: DrawRegion
@@ -20,18 +22,15 @@ drawer: {
       spinSprite: true
     }
     {
-      type: DrawRegion
-      suffix: -top
-    }
-  ]
+      type: DrawDefault
 }
+]
 consumes: {
-  items: {
     power: 200
-    liquid: [
-      slag/5
-    ]
-  }
+    liquid: {
+      liquid: slag
+      amount: 0.4
+    }
 }
 requirements: [
   copper/50

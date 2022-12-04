@@ -4,7 +4,7 @@ description: shoot magic missile
 health: 200
 size: 2
 reloadTime: 30
-shootSound: gunShoot1
+shootSound: manaShoot
 range: 250
 shots: 3
 ammoUseEffect: casing2
