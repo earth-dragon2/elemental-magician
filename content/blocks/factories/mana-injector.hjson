@@ -1,11 +1,27 @@
 {
 type: Separator
-name: Mana Injecror
+name: Mana Injector
 description: injector mana to something
 size: 3
 hasItems: true
 craftTime: 35
 updateEffect: smeltsmoke
+drawer: { 
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawLiquidTile
+      drawLiquid: inferior-mana
+    }
+    {
+      type: DrawDefault
+    }
+]
+}
 consumes: {
   items: {
     power: 200

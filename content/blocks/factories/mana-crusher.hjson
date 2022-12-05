@@ -1,6 +1,6 @@
 {
 type: GenericSmelter
-name: Mana Squeezer
+name: Mana Crusher
 description: Squeezing mana
 size: 2
 hasItems: true
