@@ -6,7 +6,9 @@ size: 2
 hasItems: true
 craftTime: 50
 updateEffect: smeltsmoke
-drawers: [
+drawer: { 
+  type: DrawMulti
+  drawers: [
     {
       type: DrawRegion
       suffix: -bottom
@@ -23,8 +25,9 @@ drawers: [
     }
     {
       type: DrawDefault
-}
+    }
 ]
+}
 consumes: {
     power: 200
     liquid: {

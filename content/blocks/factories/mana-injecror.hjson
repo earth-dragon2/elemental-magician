@@ -2,7 +2,7 @@
 type: Separator
 name: Mana Injecror
 description: injector mana to something
-size: 2
+size: 3
 hasItems: true
 craftTime: 35
 updateEffect: smeltsmoke
