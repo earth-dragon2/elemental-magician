@@ -8,7 +8,7 @@ Magic which is an ancient power made by ancient human.This mod will remake and b
 
 bruhman#1353
 
-Aleksandrov Vladimir Morozov#6432(he do nothing)
+Aleksandrov Vladimir Morozov#6432(sound effects)
 
 Dazlezlezlezlezlezlezlezlezl…#5103(help)
 
