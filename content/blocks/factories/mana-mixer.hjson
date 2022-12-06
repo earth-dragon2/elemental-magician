@@ -1,12 +1,28 @@
 {
 type: GenericSmelter
-name: Mana Crusher
+name: Mana Mixer
 description: Squeezing mana
 size: 2
 hasItems: true
 hasLiquids: true
 craftTime: 30
 updateEffect: smeltsmoke
+drawer: { 
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawLiquidTile
+      drawLiquid: water
+    }
+    {
+      type: DrawDefault
+    }
+]
+}
 consumes: {
   items: {
     items: [
