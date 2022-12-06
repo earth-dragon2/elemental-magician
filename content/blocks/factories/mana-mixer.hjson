@@ -28,10 +28,10 @@ consumes: {
     items: [
       millennium/2
     ]
-    liquid: [
-      water
+    liquid: {
+      liquid: water
       amount: 1
-    ]
+      }
   }
 }
 requirements: [
