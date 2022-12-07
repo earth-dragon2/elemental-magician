@@ -41,7 +41,7 @@ requirements: [
   millennium/60
 ]
 category: crafting
-research: mana-squeezer
+research: mana-mixer
 results: [
   mana-infused-metal/50
   mana-over-infused-metal/10

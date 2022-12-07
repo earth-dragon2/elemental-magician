@@ -15,10 +15,6 @@ drawer: {
       suffix: -bottom
     }
     {
-      type: DrawLiquidTile
-      drawLiquid: water
-    }
-    {
       type: DrawDefault
     }
 ]
@@ -28,11 +24,11 @@ consumes: {
     items: [
       millennium/2
     ]
-    liquid: [
-      water
+    }
+    liquid: {
+      liquid: water
       amount: 1
-    ]
-  }
+    }
 }
 requirements: [
   copper/50
@@ -41,6 +37,6 @@ requirements: [
   lead/30
 ]
 category: crafting
-research: mechanical-drill
+research: separator-extended
 outputLiquid: inferior-mana/1
 }
