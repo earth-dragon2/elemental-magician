@@ -15,6 +15,10 @@ drawer: {
       suffix: -bottom
     }
     {
+      type: DrawLiquidTile
+      drawLiquid: water
+    }
+    {
       type: DrawDefault
     }
 ]
