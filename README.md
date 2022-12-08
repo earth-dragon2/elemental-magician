@@ -1,5 +1,8 @@
 # THIS MOD FINALLY SUPPORT V7!!!!1!!1!11!!1!!!!1!111!!!
 
+# Warning
+Please test the mod in sandbox to check out is there are any bug
+If does have bugs please post in issue 
 
 # Some background 
 Magic which is an ancient power made by ancient human.This mod will remake and buff magic in this sci-fi world.
