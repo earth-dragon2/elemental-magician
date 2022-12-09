@@ -49,8 +49,8 @@ ammoTypes: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     lifetime: 30
-    homingPower: 20
-    homingRange: 10
+    homingPower: 1
+    homingRange: 40
   }
 }
 requirements: [
