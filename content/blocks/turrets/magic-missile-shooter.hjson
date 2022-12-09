@@ -5,7 +5,7 @@ health: 200
 size: 2
 reloadTime: 30
 shootSound: manaShoot
-range: 250
+range: 256
 shots: 3
 ammoUseEffect: casing2
 rotateSpeed: 12
@@ -29,15 +29,15 @@ ammoTypes: {
   mana-infused-metal: {
     frontColor: 18dede
     backColor: 008080
-    speed: 10
+    speed: 8
     damage: 50
     width: 8
     height: 11
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    lifetime: 30
-    homingPower: 20
-    homingRange: 10
+    lifetime: 60
+    homingPower: 0.1
+    homingRange: 256
   }
   mana-over-infused-metal: {
     frontColor: 18dede
@@ -48,9 +48,9 @@ ammoTypes: {
     height: 13
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    lifetime: 30
-    homingPower: 20
-    homingRange: 10
+    lifetime: 45
+    homingPower: 0.2
+    homingRange: 256
   }
 }
 requirements: [
