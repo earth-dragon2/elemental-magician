@@ -1,0 +1,31 @@
+{
+type: GenericCrafter
+name: Purifier
+description: purify inferior mana and mana over infused metal
+size: 3
+hasItems: true
+hasLiquids: true
+craftTime: 40
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      mana-over-infused-metal/2
+    ]
+    }
+    liquid: {
+      liquid: inferior-mana
+      amount: 1
+    }
+}
+requirements: [
+  copper/50
+  graphite/30
+  titanium/50
+  lead/30
+  millennium/60
+]
+category: crafting
+research: mana-injecror
+outputLiquid: inferior-mana/1
+}

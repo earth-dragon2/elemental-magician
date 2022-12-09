@@ -1,0 +1,23 @@
+{
+name: Slag Extractor
+description: what if no scrap in the map? there u go
+type: Fracker
+size: 2
+liquidCapacity: 120
+result: slag
+attribute: slag
+pumpAmount: 1.2
+itemUseTime: 210
+consumes: {
+  power: 1
+  }
+}
+requirements: [
+  copper/150
+  silicon/120
+  metaglass/100
+  graphite/60
+]
+category: production
+research: water-extractor
+}

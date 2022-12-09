@@ -3,7 +3,7 @@ name: Mana Infused Metal Drill
 description: A fast drill, cost power.
 type: Drill
 health: 500
-size: 2
+size: 3
 liquidCapacity: 10
 baseExplosiveness: 10
 rotateSpeed: 3.5
@@ -27,6 +27,7 @@ requirements: [
   titanium/250
   copper/50
   millennium/90
+  mana-over-infused-metal/2
 ]
 category: production
 research: pneumatic-drill

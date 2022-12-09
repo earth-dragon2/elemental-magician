@@ -46,10 +46,10 @@ research: separator
 results: [
   copper/20
   lead/15
-  graphite/10
-  titanium/10
-  silicon/10
-  millennium/8
+  graphite/14
+  titanium/12
+  silicon/12
+  millennium/10
   mystery/5
 ]
 }

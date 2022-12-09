@@ -1,7 +1,7 @@
 {
 type: GenericCrafter
 localizedName: Mana Mixer
-description: Squeezing mana
+description: mixing mana
 size: 2
 hasItems: true
 hasLiquids: true
