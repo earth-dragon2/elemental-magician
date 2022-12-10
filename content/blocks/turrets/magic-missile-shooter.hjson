@@ -3,7 +3,7 @@ name: Magic Missile Shooter
 description: shoot magic missile
 health: 200
 size: 2
-reloadTime: 30
+reloadTime: 35
 shootSound: manaShoot
 range: 256
 shots: 3
