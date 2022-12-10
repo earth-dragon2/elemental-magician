@@ -1,6 +1,6 @@
 {
 name: Slag Extractor
-description: what if no scrap in the map? there u go
+description: yeah water extractor but slag version
 type: Fracker
 size: 2
 liquidCapacity: 120

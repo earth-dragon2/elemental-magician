@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Magic Missile Shooter
-description: shoot magic missile
+description: shoots magic missile
 health: 200
 size: 2
 reloadTime: 35

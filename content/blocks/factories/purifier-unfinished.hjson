@@ -1,18 +1,13 @@
 {
 type: GenericCrafter
 name: Purifier Unfinishd
-description: purify inferior mana and mana over infused metal
+description: purify inferior mana
 size: 3
 hasItems: true
 hasLiquids: true
 craftTime: 40
 updateEffect: smeltsmoke
 consumes: {
-  items: {
-    items: [
-      mana-over-infused-metal/2
-    ]
-    }
     liquid: {
       liquid: inferior-mana
       amount: 1
