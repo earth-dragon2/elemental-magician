@@ -1,6 +1,6 @@
 {
 type: GenericCrafter
-name: Purifier
+name: Purifier Unfinishd
 description: purify inferior mana and mana over infused metal
 size: 3
 hasItems: true
