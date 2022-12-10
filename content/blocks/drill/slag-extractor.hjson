@@ -5,12 +5,11 @@ type: Fracker
 size: 2
 liquidCapacity: 120
 result: slag
-attribute: slag
-pumpAmount: 1.2
+attribute: water
+pumpAmount: 0.12
 itemUseTime: 210
 consumes: {
   power: 1
-  }
 }
 requirements: [
   copper/150
