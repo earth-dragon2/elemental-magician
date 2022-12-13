@@ -4,7 +4,7 @@ name: Separator Extended
 description: this is a magic mod but the creator add this LAMO
 size: 2
 hasItems: true
-craftTime: 50
+craftTime: 15
 updateEffect: smeltsmoke
 drawer: { 
   type: DrawMulti
@@ -29,7 +29,7 @@ drawer: {
 ]
 }
 consumes: {
-    power: 200
+    power: 3.33
     liquid: {
       liquid: slag
       amount: 0.4
