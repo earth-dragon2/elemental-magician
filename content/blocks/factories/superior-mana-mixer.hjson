@@ -45,6 +45,6 @@ requirements: [
   graphite/10
 ]
 category: crafting
-research: inferior-mana-extractor
+research: mana-extractor
 outputLiquid: superior-mana/1
 }
