@@ -26,7 +26,7 @@ shoot: {
 }
 ammoPerShot: 3
 ammoTypes: {
-  mana-infused-metal: {
+  mana-ingot: {
     frontColor: 18dede
     backColor: 008080
     speed: 8
@@ -39,7 +39,7 @@ ammoTypes: {
     homingPower: 0.1
     homingRange: 256
   }
-  mana-over-infused-metal: {
+  mana-infused-metal: {
     frontColor: 18dede
     backColor: 7B68EE
     speed: 12
@@ -55,9 +55,9 @@ ammoTypes: {
 }
 requirements: [
   copper/70
-  mana-infused-metal/100
-  titanium/150
-  millennium/90
+  mana-infused-metal/90
+  titanium/70
+  mana-ingot/50
 ]
 category: turret
 research: mana-infused-metal

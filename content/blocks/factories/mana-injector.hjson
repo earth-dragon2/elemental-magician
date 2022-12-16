@@ -26,11 +26,14 @@ consumes: {
   items: {
     power: 200
     items: [
-      titanium/2
+      mana-ingot/2
+      titanium/4
+      graphite/3
+      silicon/2
     ]
   }
   liquid: {
-    liquid: inferior-mana
+    liquid: superior-mana
     amount: 0.5
   }
 }
@@ -38,12 +41,12 @@ requirements: [
   copper/50
   titanium/100
   graphite/30
-  millennium/60
+  mana-ingot/60
 ]
 category: crafting
 research: mana-mixer
 results: [
   mana-infused-metal/8
-  mana-over-infused-metal/1
+  mystery/1
 ]
 }

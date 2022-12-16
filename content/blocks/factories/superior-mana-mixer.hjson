@@ -1,7 +1,7 @@
 {
 type: GenericCrafter
-localizedName: Mana Mixer
-description: mixing mana
+localizedName: Superior Mana Mixer
+description: put these ingredients to mana can make mana more powerful
 size: 2
 hasItems: true
 hasLiquids: true
@@ -16,7 +16,7 @@ drawer: {
     }
     {
       type: DrawLiquidTile
-      drawLiquid: water
+      drawLiquid: inferior-mana
     }
     {
       type: DrawDefault
@@ -26,21 +26,25 @@ drawer: {
 consumes: {
   items: {
     items: [
-      millennium/2
+      titanium/2
+      copper/4
+      graphite/3
+      silicon/4
     ]
     }
     liquid: {
-      liquid: water
+      liquid: mana
       amount: 1
     }
 }
 requirements: [
   copper/50
-  millennium/30
+  mana-ingot/30
   titanium/50
   lead/30
+  graphite/10
 ]
 category: crafting
-research: separator-extended
-outputLiquid: inferior-mana/1
+research: inferior-mana-extractor
+outputLiquid: superior-mana/1
 }

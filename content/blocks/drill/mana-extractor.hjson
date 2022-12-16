@@ -1,13 +1,13 @@
 {
-name: Slag Extractor
-description: yeah water extractor but slag version
+name: Mana Extractor
+description: yeah water extractor but inferior mana version
 type: Fracker
 size: 2
 liquidCapacity: 120
-result: slag
-attribute: water
+result: mana
+attribute: oil
 pumpAmount: 0.12
-itemUseTime: 210
+itemUseTime: 100
 consumes: {
   power: 1
 }

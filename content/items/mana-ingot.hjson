@@ -1,0 +1,6 @@
+name: Mana Ingot
+description: mana but ingot
+hardness: 2
+cost: 2
+color: 008080
+research: inferior-mana
