@@ -16,7 +16,7 @@ drawer: {
     }
     {
       type: DrawLiquidTile
-      drawLiquid: inferior-mana
+      drawLiquid: mana
     }
     {
       type: DrawDefault

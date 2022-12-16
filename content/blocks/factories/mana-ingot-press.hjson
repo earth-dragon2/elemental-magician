@@ -20,5 +20,5 @@ requirements: [
 ]
 category: crafting
 research: mana
-outputItem: mana-ingot
+outputItem: mana-ingot/1
 }
