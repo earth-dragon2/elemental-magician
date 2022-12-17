@@ -9,7 +9,7 @@ updateEffect: smeltsmoke
 consumes: {
     liquid: {
       liquid: mana
-      amount: 1
+      amount: 0.2
     }
 }
 requirements: [
