@@ -34,7 +34,7 @@ consumes: {
     }
     liquid: {
       liquid: mana
-      amount: 1
+      amount: 0.8
     }
 }
 requirements: [

@@ -24,7 +24,7 @@ drawer: {
 }
 consumes: {
   items: {
-    power: 0.5
+    power: 0.3
     items: [
       mana-ingot/2
       titanium/4
