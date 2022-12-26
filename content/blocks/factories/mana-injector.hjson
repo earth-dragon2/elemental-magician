@@ -4,7 +4,7 @@ name: Mana Injector
 description: to make mana infused metal but have a error beause of bad quality
 size: 3
 hasItems: true
-craftTime: 35
+craftTime: 20
 updateEffect: smeltsmoke
 drawer: { 
   type: DrawMulti
@@ -27,7 +27,7 @@ consumes: {
     power: 0.3
     items: [
       mana-ingot/2
-      titanium/4
+      titanium/3
       graphite/3
       silicon/2
     ]

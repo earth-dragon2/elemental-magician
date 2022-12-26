@@ -55,7 +55,7 @@ ammoTypes: {
 }
 requirements: [
   copper/70
-  mana-infused-metal/90
+  mana-infused-metal/30
   titanium/70
   mana-ingot/50
 ]

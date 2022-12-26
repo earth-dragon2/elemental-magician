@@ -6,7 +6,7 @@ health: 500
 size: 3
 liquidCapacity: 10
 baseExplosiveness: 10
-rotateSpeed: 3.5
+rotateSpeed: 5
 hasPower: true
 updateEffect: oily
 updateEffectChance: 0.04
@@ -14,7 +14,7 @@ tier: 6
 drillTime: 280
 floating: true
 consumes: {
-  power: 2.5
+  power: 1
   liquid: {
     liquid: mana
     amount: 0.1
@@ -23,7 +23,7 @@ consumes: {
   }
 }
 requirements: [
-  mana-infused-metal/50
+  mana-infused-metal/25
   titanium/150
   copper/50
   mana-ingot/90

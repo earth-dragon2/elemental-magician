@@ -5,7 +5,7 @@ description: put these ingredients to mana can make mana more powerful
 size: 2
 hasItems: true
 hasLiquids: true
-craftTime: 30
+craftTime: 20
 updateEffect: smeltsmoke
 drawer: { 
   type: DrawMulti
@@ -28,13 +28,13 @@ consumes: {
     items: [
       titanium/2
       copper/4
-      graphite/3
-      silicon/4
+      graphite/2
+      silicon/1
     ]
     }
     liquid: {
       liquid: mana
-      amount: 0.8
+      amount: 0.6
     }
 }
 requirements: [
