@@ -18,6 +18,10 @@ ammoTypes: {
     damage: 150
     width: 8
     height: 11
+    statusEffect: electrified
+    statusDuration: 5
+    statusEffect: shocked
+    statusDuration: 5
   }
 }
 requirements: [
