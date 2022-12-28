@@ -23,6 +23,7 @@ ammoTypes: {
     statusEffect: slow
     statusDuration: 0.5
   }
+}
 requirements: [
   mana-infused-metal/30
   titanium/100

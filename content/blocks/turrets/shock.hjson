@@ -19,6 +19,7 @@ ammoTypes: {
     width: 8
     height: 11
   }
+}
 requirements: [
   mana-infused-metal/30
   titanium/100
