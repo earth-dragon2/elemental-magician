@@ -18,10 +18,8 @@ ammoTypes: {
     damage: 150
     width: 8
     height: 11
-    statusEffect: frost
-    statusDuration: 0.5
-    statusEffect: slow
-    statusDuration: 0.5
+    statusEffect: burning
+    statusDuration: 5
   }
 }
 requirements: [
