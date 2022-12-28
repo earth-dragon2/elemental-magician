@@ -6,7 +6,7 @@ size: 3
 reloadTime: 35
 shootSound: manaShoot
 range: 256
-shots: 3
+shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 12
 ammoPerShot: 1
@@ -14,8 +14,8 @@ ammoTypes: {
   electricite: {
     frontColor: FFFA19
     backColor: FBF725
-    speed: 20
-    damage: 100
+    speed: 30
+    damage: 150
     width: 8
     height: 11
   }

@@ -14,8 +14,8 @@ ammoTypes: {
   flameite: {
     frontColor: FF2200
     backColor: FF3B00
-    speed: 20
-    damage: 100
+    speed: 30
+    damage: 150
     width: 8
     height: 11
     statusEffect: frost

@@ -3,19 +3,19 @@ name: Frostbite
 description: the ice element turret
 health: 500
 size: 3
-reloadTime: 35
+reloadTime: 25
 shootSound: manaShoot
-range: 256
-shots: 3
+range: 300
+shots: 1
 ammoUseEffect: casing2
-rotateSpeed: 12
+rotateSpeed: 10
 ammoPerShot: 1
 ammoTypes: {
   frostite: {
     frontColor: 1E90FF
     backColor: 58A8F6
-    speed: 20
-    damage: 100
+    speed: 30
+    damage: 159
     width: 8
     height: 11
     statusEffect: frost
