@@ -46,7 +46,7 @@ requirements: [
 category: crafting
 research: mana-mixer
 results: [
-  mana-infused-metal/8
+  mana-infused-metal/4
   mystery/1
 ]
 }

@@ -1,0 +1,29 @@
+type: ItemTurret
+name: Shock
+description: the thunder element turret
+health: 500
+size: 3
+reloadTime: 35
+shootSound: manaShoot
+range: 256
+shots: 3
+ammoUseEffect: casing2
+rotateSpeed: 12
+ammoPerShot: 1
+ammoTypes: {
+  electricite: {
+    frontColor: FFFA19
+    backColor: FBF725
+    speed: 20
+    damage: 100
+    width: 8
+    height: 11
+  }
+requirements: [
+  mana-infused-metal/30
+  titanium/100
+  mana-ingot/50
+  electricite/5
+]
+category: turret
+research: elementallizer

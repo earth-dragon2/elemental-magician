@@ -1,0 +1,6 @@
+name: Frostite
+description: the ice element ingot
+hardness: 5
+cost: 2
+color: 1E90FF
+research: elementallizer

@@ -1,0 +1,6 @@
+name: electricite
+description: the thunder element ingot
+hardness: 5
+cost: 2
+color: FFD700
+research: elementallizer

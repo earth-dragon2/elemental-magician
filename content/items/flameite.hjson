@@ -1,0 +1,7 @@
+name: Flameite
+description: the fire element ingot
+hardness: 5
+flammability: 10
+cost: 2
+color: FF4500
+research: elementallizer
