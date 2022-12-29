@@ -15,7 +15,7 @@ ammoTypes: {
     frontColor: 1E90FF
     backColor: 58A8F6
     speed: 30
-    damage: 159
+    damage: 200
     width: 8
     height: 11
     statusEffect: freezing
