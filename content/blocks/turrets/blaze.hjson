@@ -5,8 +5,8 @@ health: 500
 size: 3
 reloadTime: 35
 shootSound: manaShoot
-range: 256
-inaccuracy: 4
+range: 100
+inaccuracy: 100
 shoot: {
   type: ShootMulti
   source: ShootAlternate
@@ -16,6 +16,8 @@ shoot: {
       shots: 10
       barrels: [
         0, 0, 0
+        0.5, 0, 0
+        -0.5, 0, 0
       ]
     }
   ]
