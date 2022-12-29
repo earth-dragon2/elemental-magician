@@ -15,8 +15,7 @@ shoot: {
       type: ShootBarrel
       shots: 6
       barrels: [
-        0.125, 0, 0
-        -0.125, 0, 0
+        0,0,0
       ]
     }
   ]
