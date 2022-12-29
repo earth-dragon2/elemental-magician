@@ -1,6 +1,6 @@
 type: ItemTurret
-name: Frostbite
-description: the ice element turret
+name: Frozen
+description: the ice element turret (let it go(wat the hell bro))
 health: 500
 size: 3
 reloadTime: 25

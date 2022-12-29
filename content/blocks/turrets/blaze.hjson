@@ -6,16 +6,29 @@ size: 3
 reloadTime: 35
 shootSound: manaShoot
 range: 256
-shots: 3
+inaccuracy: 4
+shoot: {
+  type: ShootMulti
+  source: ShootAlternate
+  dest: [
+    {
+      type: ShootBarrel
+      shots: 10
+      barrels: [
+        0, 0, 0
+      ]
+    }
+  ]
+}
 ammoUseEffect: casing2
 rotateSpeed: 12
-ammoPerShot: 1
+ammoPerShot: 10
 ammoTypes: {
   flameite: {
     frontColor: FF2200
     backColor: FF3B00
     speed: 30
-    damage: 150
+    damage: 125
     width: 8
     height: 11
     statusEffect: burning

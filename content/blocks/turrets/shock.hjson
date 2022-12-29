@@ -22,6 +22,9 @@ ammoTypes: {
     statusDuration: 5
     statusEffect: shocked
     statusDuration: 5
+    lightning: 10
+    lightningLength: 15
+    lightningDamage: 105
   }
 }
 requirements: [
