@@ -22,17 +22,17 @@ shoot: {
 }
 ammoUseEffect: casing2
 rotateSpeed: 12
-ammoPerShot: 10
+ammoPerShot: 5
 ammoTypes: {
   flameite: {
     frontColor: FF2200
     backColor: FF3B00
-    speed: 30
-    damage: 125
+    speed: 100
+    damage: 150
     width: 8
     height: 11
     statusEffect: burning
-    statusDuration: 5
+    statusDuration: 10
   }
 }
 requirements: [
