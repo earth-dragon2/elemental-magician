@@ -3,9 +3,9 @@ name: Shock
 description: the thunder element turret
 health: 500
 size: 3
-reloadTime: 35
+reloadTime: 50
 shootSound: manaShoot
-range: 256
+range: 200
 shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 12
@@ -15,15 +15,16 @@ ammoTypes: {
     frontColor: FFFA19
     backColor: FBF725
     speed: 30
-    damage: 150
+    damage: 50
     width: 8
     height: 11
     statusEffect: electrified
     statusDuration: 5
     statusEffect: shocked
     statusDuration: 5
-    lightning: 40
-    lightningLength: 125
+    lifetime: 10
+    lightning: 20
+    lightningLength: 50
     lightningDamage: 80
   }
 }

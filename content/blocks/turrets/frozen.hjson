@@ -3,9 +3,9 @@ name: Frozen
 description: the ice element turret (let it go(wat the hell bro))
 health: 500
 size: 3
-reloadTime: 15
+reloadTime: 5
 shootSound: manaShoot
-range: 300
+range: 250
 shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 10
@@ -14,12 +14,14 @@ ammoTypes: {
   frostite: {
     frontColor: 1E90FF
     backColor: 58A8F6
-    speed: 35
-    damage: 250
-    width: 8
-    height: 11
+    speed: 40
+    damage: 300
+    width: 10
+    height: 15
     statusEffect: freezing
-    statusDuration: 5
+    statusDuration: 100
+    homingPower: 0.5
+    homingRange: 80
   }
 }
 requirements: [

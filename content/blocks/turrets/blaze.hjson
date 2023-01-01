@@ -3,10 +3,10 @@ name: Blaze
 description: the fire element turret
 health: 500
 size: 3
-reloadTime: 35
+reloadTime: 30
 shootSound: manaShoot
-range: 100
-inaccuracy: 42
+range: 200
+inaccuracy: 30
 shoot: {
   type: ShootMulti
   source: ShootAlternate
@@ -31,6 +31,7 @@ ammoTypes: {
     damage: 200
     width: 8
     height: 11
+    lifetime: 10
     statusEffect: burning
     statusDuration: 10
   }
