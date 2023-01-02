@@ -12,6 +12,7 @@ rotateSpeed: 12
 ammoPerShot: 1
 ammoTypes: {
   electricite: {
+    type: ArtilleryBulletType
     frontColor: FFFA19
     backColor: FBF725
     speed: 30
