@@ -19,7 +19,9 @@ ammoTypes: {
     width: 10
     height: 15
     status: freezing
-    statusDuration: 1000
+    statusDuration: 500
+    status: unmoving
+    statusDuration: 500
     homingPower: 0.5
     homingRange: 80
   }

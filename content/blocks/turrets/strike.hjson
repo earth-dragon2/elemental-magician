@@ -20,11 +20,11 @@ ammoTypes: {
     width: 8
     height: 11
     status: electrified
-    statusDuration: 5
+    statusDuration: 500
     status: shocked
-    statusDuration: 5
+    statusDuration: 500
     lifetime: 8
-    lightning: 10
+    lightning: 8
     lightningLength: 25
     lightningDamage: 55
   }
