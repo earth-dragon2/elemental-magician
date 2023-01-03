@@ -32,7 +32,7 @@ ammoTypes: {
     width: 8
     height: 11
     lifetime: 10
-    statusEffect: melting
+    status: melting
     statusDuration: 10
   }
 }
