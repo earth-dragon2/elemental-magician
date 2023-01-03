@@ -15,18 +15,18 @@ ammoTypes: {
     type: ArtilleryBulletType
     frontColor: FFFA19
     backColor: FBF725
-    speed: 30
-    damage: 50
+    speed: 40
+    damage: 30
     width: 8
     height: 11
-    statusEffect: electrified
+    status: electrified
     statusDuration: 5
-    statusEffect: shocked
+    status: shocked
     statusDuration: 5
-    lifetime: 10
-    lightning: 20
-    lightningLength: 50
-    lightningDamage: 80
+    lifetime: 8
+    lightning: 10
+    lightningLength: 25
+    lightningDamage: 55
   }
 }
 requirements: [
