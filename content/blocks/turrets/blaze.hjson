@@ -33,7 +33,7 @@ ammoTypes: {
     height: 11
     lifetime: 10
     status: melting
-    statusDuration: 10
+    statusDuration: 1000
   }
 }
 requirements: [
