@@ -1,29 +1,29 @@
 type: ItemTurret
-name: Frozen
+name: freeze
 description: the ice element turret (let it go(wat the hell bro))
 health: 500
 size: 3
 reloadTime: 5
 shootSound: manaShoot
-range: 250
+range: 100
 shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 10
 ammoPerShot: 1
 ammoTypes: {
   frostite: {
-    frontColor: 1E90FF
-    backColor: 58A8F6
-    speed: 40
-    damage: 300
+    type: ContinuousLaserBulletType
+    damage: 100
     width: 10
-    height: 15
+    height: 100
+    sideAngle: 15
+    sideWidth: 0
+    sideLength: 0
+    colors: [ffffff, 1E90FF, 58A8F6]
     status: freezing
     statusDuration: 500
     status: unmoving
     statusDuration: 500
-    homingPower: 0.5
-    homingRange: 80
   }
 }
 requirements: [
