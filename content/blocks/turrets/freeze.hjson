@@ -1,5 +1,5 @@
 type: ItemTurret
-name: freeze
+name: Freeze
 description: the ice element turret (let it go(wat the hell bro))
 health: 500
 size: 3
