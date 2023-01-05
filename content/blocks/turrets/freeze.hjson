@@ -14,14 +14,14 @@ ammoTypes: {
   frostite: {
     type: ContinuousLaserBulletType
     damage: 100
-    width: 10
-    height: 100
+    width: 5
+    height: 120
     sideAngle: 15
     sideWidth: 0
     sideLength: 0
     colors: [ffffff, 1E90FF, 58A8F6]
     status: freezing
-    statusDuration: 500
+    statusDuration: 1000
     status: unmoving
     statusDuration: 500
   }
