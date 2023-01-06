@@ -4,7 +4,7 @@ description: the ice element turret. it can burn enermy with low temperature.
 health: 500
 size: 3
 reload: 180
-shootSound: manaShoot
+shootSound: freeze
 range: 144
 ammoUseEffect: casing2
 rotateSpeed: 10
