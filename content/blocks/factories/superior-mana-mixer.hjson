@@ -2,6 +2,7 @@
 type: GenericCrafter
 localizedName: Superior Mana Mixer
 description: put these ingredients to mana can make mana more powerful
+health: 250
 size: 2
 hasItems: true
 hasLiquids: true

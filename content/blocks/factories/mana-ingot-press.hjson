@@ -2,6 +2,7 @@
 type: GenericCrafter
 name: Mana Ingot Press
 description: it can press some inferior mana to ingot from for some reason
+health: 200
 size: 2
 hasItems: true
 craftTime: 35

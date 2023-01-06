@@ -3,6 +3,7 @@ type: Separator
 name: Elementallizer
 description: elementallizing mana ingot
 size: 3
+health: 200
 hasItems: true
 craftTime: 25
 updateEffect: smeltsmoke

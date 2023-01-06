@@ -1,7 +1,7 @@
 type: ItemTurret
 name: Magic Missile Shooter
-description: shoots magic missile. the first turret you get.
-health: 200
+description: shoots magic missile that can auto track. the first turret you get.
+health: 250
 size: 2
 reloadTime: 28
 shootSound: manaShoot
