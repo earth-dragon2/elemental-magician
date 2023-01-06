@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Strike
-description: the thunder element turret
+description: the thunder element turret. a turret shoots lighting bullet.
 health: 500
 size: 3
 reloadTime: 50

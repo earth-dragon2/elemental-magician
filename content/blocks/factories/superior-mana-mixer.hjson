@@ -28,13 +28,13 @@ consumes: {
     items: [
       titanium/2
       copper/4
-      graphite/2
+      lead/2
       silicon/1
     ]
     }
     liquid: {
       liquid: mana
-      amount: 0.6
+      amount: 0.3
     }
 }
 requirements: [

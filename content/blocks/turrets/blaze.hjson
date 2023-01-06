@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Blaze
-description: the fire element turret
+description: the fire element turret. a shotgun shoots flame.
 health: 500
 size: 3
 reloadTime: 30

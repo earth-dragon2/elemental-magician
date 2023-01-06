@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Freeze
-description: the ice element turret (let it go(wat the hell bro))
+description: the ice element turret. it can burn enermy with low temperature.
 health: 500
 size: 3
 reloadTime: 5
@@ -13,7 +13,7 @@ ammoPerShot: 1
 ammoTypes: {
   frostite: {
     type: ContinuousLaserBulletType
-    damage: 100
+    damage: 50
     width: 5
     height: 120
     sideAngle: 15

@@ -1,9 +1,9 @@
 type: ItemTurret
 name: Magic Missile Shooter
-description: shoots magic missile
+description: shoots magic missile. the first turret you get.
 health: 200
 size: 2
-reloadTime: 35
+reloadTime: 28
 shootSound: manaShoot
 range: 256
 shots: 3
@@ -30,7 +30,7 @@ ammoTypes: {
     frontColor: 18dede
     backColor: 008080
     speed: 8
-    damage: 50
+    damage: 60
     width: 8
     height: 11
     shootEffect: shootSmall
@@ -54,8 +54,8 @@ ammoTypes: {
   }
 }
 requirements: [
+  silicon/20
   copper/70
-  mana-infused-metal/30
   titanium/70
   mana-ingot/50
 ]

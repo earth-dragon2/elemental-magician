@@ -28,8 +28,7 @@ consumes: {
     items: [
       mana-ingot/2
       titanium/3
-      graphite/3
-      silicon/2
+      silicon/1
     ]
   }
   liquid: {
