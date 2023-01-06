@@ -12,7 +12,7 @@ rotateSpeed: 10
 ammoPerShot: 1
 ammoTypes: {
   frostite: {
-    type: PointLaserBulletType
+    type: LaserBoltBulletType
     damage: 50
     width: 5
     height: 120
