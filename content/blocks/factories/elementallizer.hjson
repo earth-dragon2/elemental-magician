@@ -7,6 +7,28 @@ health: 200
 hasItems: true
 craftTime: 25
 updateEffect: smeltsmoke
+updateEffect: smeltsmoke
+drawer: { 
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawRegion
+      suffix: -rotator
+    }
+    {
+      type: DrawRegion
+      suffix: -top
+    }
+  {
+    type: DrawGlowRegion
+    color: ffffff
+    glowScale: 2
+  }
+]
+}
 consumes: {
   items: {
     power: 0.1
