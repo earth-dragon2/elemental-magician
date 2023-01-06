@@ -17,6 +17,7 @@ drawer: {
     {
       type: DrawRegion
       suffix: -rotator
+      rotateSpeed: 5
     }
     {
       type: DrawRegion
