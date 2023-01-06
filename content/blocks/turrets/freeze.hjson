@@ -3,7 +3,7 @@ name: Freeze
 description: the ice element turret. it can burn enermy with low temperature.
 health: 500
 size: 3
-reloadTime: 100
+reload: 100
 shootSound: manaShoot
 range: 100
 shots: 1
