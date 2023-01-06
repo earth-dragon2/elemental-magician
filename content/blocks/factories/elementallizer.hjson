@@ -17,17 +17,16 @@ drawer: {
     {
       type: DrawRegion
       suffix: -rotator
-      rotateSpeed: 5
+      rotateSpeed: 10
     }
     {
       type: DrawRegion
       suffix: -top
     }
-  {
-    type: DrawGlowRegion
-    color: ffffff
-    glowScale: 2
-  }
+    {
+      type: DrawRegion
+      suffix: -top0
+    }
 ]
 }
 consumes: {
