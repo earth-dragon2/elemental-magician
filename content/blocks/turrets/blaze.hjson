@@ -6,7 +6,7 @@ size: 3
 reloadTime: 30
 shootSound: manaShoot
 range: 200
-inaccuracy: 25
+inaccuracy: 20
 shoot: {
   type: ShootMulti
   source: ShootAlternate
@@ -27,7 +27,7 @@ ammoTypes: {
   flameite: {
     frontColor: FF2200
     backColor: FF3B00
-    speed: 40
+    speed: 20
     damage: 200
     width: 8
     height: 11
