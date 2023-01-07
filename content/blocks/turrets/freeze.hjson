@@ -9,7 +9,6 @@ range: 100
 shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 10
-ammoPerShot: 1
 ammoTypes: {
   frostite: {
     type: ContinuousLaserBulletType
@@ -22,9 +21,10 @@ ammoTypes: {
     fadeTime: 100
     colors: [ffffff, 1E90FF, 58A8F6]
     status: freezing
-    statusDuration: 1000
+    statusDuration: 600
     status: unmoving
-    statusDuration: 500
+    statusDuration: 300
+    lifetime: 120
   }
 }
 requirements: [
