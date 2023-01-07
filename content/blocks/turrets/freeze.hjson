@@ -3,7 +3,6 @@ name: Freeze
 description: the ice element turret. it can burn enermy with extreme low temperature.
 health: 500
 size: 3
-reload: 50
 shootDuration: 500
 chargeTime: 20
 heatColor: ffffff
