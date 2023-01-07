@@ -13,7 +13,7 @@ shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 10
 consumes: {
-  frostit/1
+  power: 0.5
 } 
 ammoTypes: {
   type: ContinuousLaserBulletType
@@ -34,7 +34,7 @@ requirements: [
   mana-infused-metal/30
   titanium/100
   mana-ingot/50
-  frostite/5
+  frostite/20
 ]
 category: turret
 research: elementallizer
