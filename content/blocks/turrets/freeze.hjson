@@ -15,7 +15,7 @@ rotateSpeed: 10
 consumes: {
   power: 0.5
 }
-ammoTypes: {
+shootTypes: {
   type: ContinuousLaserBulletType
   damage: 50
   width: 5
