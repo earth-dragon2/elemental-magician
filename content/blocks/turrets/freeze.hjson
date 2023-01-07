@@ -4,7 +4,7 @@ description: the ice element turret. it can burn enermy with extreme low tempera
 health: 500
 size: 3
 reload: 50
-shootDuration: 100
+shootDuration: 500
 chargeTime: 20
 heatColor: ffffff
 firingMoveFract: 8
