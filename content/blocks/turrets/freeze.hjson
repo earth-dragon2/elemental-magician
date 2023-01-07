@@ -18,7 +18,7 @@ ammoTypes: {
     sideAngle: 15
     sideWidth: 0
     sideLength: 0
-    fadeTime: 100
+    decay: 10
     colors: [ffffff, 1E90FF, 58A8F6]
     status: freezing
     statusDuration: 600
