@@ -1,10 +1,10 @@
-type: ItemTurret
+type: LaserTurret
 name: Freeze
 description: the ice element turret. it can burn enermy with extreme low temperature.
 health: 500
 size: 3
 shootDuration: 500
-chargeTime: 20
+chargeTime: 50
 heatColor: ffffff
 firingMoveFract: 8
 shootSound: freeze
@@ -12,22 +12,23 @@ range: 100
 shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 10
+consumes: {
+  frostit/1
+} 
 ammoTypes: {
-  frostite: {
-    type: ContinuousLaserBulletType
-    damage: 50
-    width: 5
-    height: 120
-    sideAngle: 15
-    sideWidth: 0
-    sideLength: 0
-    colors: [ffffff, 1E90FF, 58A8F6]
-    status: freezing
-    statusDuration: 600
-    status: unmoving
-    statusDuration: 300
-    lifetime: 120
-  }
+  type: ContinuousLaserBulletType
+  damage: 50
+  width: 5
+  height: 120
+  sideAngle: 15
+  sideWidth: 0
+  sideLength: 0
+  colors: [ffffff, 1E90FF, 58A8F6]
+  status: freezing
+  statusDuration: 600
+  status: unmoving
+  statusDuration: 300
+  lifetime: 120
 }
 requirements: [
   mana-infused-metal/30
