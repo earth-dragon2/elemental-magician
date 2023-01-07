@@ -13,8 +13,8 @@ shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 10
 consumes: {
-  power: 0.5
-} 
+  frostite/1
+}
 ammoTypes: {
   type: ContinuousLaserBulletType
   damage: 50
