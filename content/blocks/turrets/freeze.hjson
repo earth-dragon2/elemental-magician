@@ -5,8 +5,8 @@ health: 500
 size: 3
 reload: 50
 shootDuration: 100
-chargeTime: 10
-firingMoveFract: 10
+chargeTime: 15
+firingMoveFract: 8
 shootSound: freeze
 range: 100
 shots: 1
