@@ -29,8 +29,10 @@ ammoTypes: {
     sideLength: 0
     knockback: 0.25
     colors: [ffffff, 1E90FF, 58A8F6]
+    status: burning
+    statusDuration: 400
     status: unmoving
-    statusDuration: 300
+    statusDuration: 290
   }
 }
 requirements: [
