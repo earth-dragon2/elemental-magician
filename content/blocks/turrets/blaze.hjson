@@ -32,7 +32,7 @@ ammoTypes: {
     width: 8
     height: 11
     lifetime: 10
-    homingPower: 0.1
+    homingPower: 0.2
     homingRange: 150
     status: melting
     statusDuration: 500

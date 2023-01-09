@@ -22,13 +22,15 @@ ammoTypes: {
   frostite: {
     type: ShrapnelBulletType
     damage: 200
-    width: 20
-    height: 250
+    width: 30
+    height: 350
     sideAngle: 15
     sideWidth: 0
     sideLength: 0
     knockback: 0.25
     colors: [ffffff, 1E90FF, 58A8F6]
+    status: freezing
+    statusDuration: 300     
     status: unmoving
     statusDuration: 300
   }
