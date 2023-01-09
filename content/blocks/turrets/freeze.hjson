@@ -32,7 +32,7 @@ ammoTypes: {
     status: freezing
     statusDuration: 300     
     status: unmoving
-    statusDuration: 300
+    statusDuration: 290
   }
 }
 requirements: [
