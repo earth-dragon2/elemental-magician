@@ -1,4 +1,6 @@
 type: ConsumeGenerator
+name: Mana Generator
+description: use mana to make power
 size: 2
 liquidCapacity: 600
 squareSprite: false 
@@ -13,9 +15,29 @@ generateEffect: {
   baseRotation: 32
   sizeFrom: 0
   sizeTo: 4
-  colorTo: ffffff00
+  colorTo: 00FFFF
   sizeInterp: pow2Out
   interp: pow2Out
+}
+drawer: { 
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawLiquidTile
+      drawLiquid: mana
+    }
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawRegion
+      suffix: -top
+    }
+]
 }
 consumes: {
   liquid: mana/1.5
