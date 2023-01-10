@@ -1,0 +1,29 @@
+type: ConsumeGenerator
+size: 2
+liquidCapacity: 600
+squareSprite: false 
+effectChance: 0.1
+warmupSpeed: 0.01
+generateEffectRange: 3
+generateEffect: {
+  particles: 1
+  length: 50
+  lifetime: 240
+  cone: 12
+  baseRotation: 32
+  sizeFrom: 0
+  sizeTo: 4
+  colorTo: ffffff00
+  sizeInterp: pow2Out
+  interp: pow2Out
+}
+consumes: {
+  liquid: mana/1.5
+}
+powerProduction: 30
+category: power
+requirements: [
+  mana-ingot/80
+  mana-infused-metal/10
+  titanium/50
+]
