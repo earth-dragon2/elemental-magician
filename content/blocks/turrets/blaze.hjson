@@ -1,19 +1,19 @@
 type: ItemTurret
 name: Blaze
-description: the fire element turret. a shotgun shoots flame that can auto track.
+description: the fire element turret. a shotgun shoots flame.
 health: 500
 size: 3
-reloadTime: 30
+reloadTime: 26
 shootSound: manaShoot
 range: 200
-inaccuracy: 20
+inaccuracy: 22
 shoot: {
   type: ShootMulti
   source: ShootAlternate
   dest: [
     {
       type: ShootBarrel
-      shots: 10
+      shots: 6
       barrels: [
         0,0,0
       ]
@@ -27,13 +27,11 @@ ammoTypes: {
   flameite: {
     frontColor: FF2200
     backColor: FF3B00
-    speed: 18
-    damage: 200
-    width: 8
-    height: 11
+    speed: 24
+    damage: 280
+    width: 10
+    height: 12
     lifetime: 10
-    homingPower: 0.2
-    homingRange: 150
     status: melting
     statusDuration: 500
   }

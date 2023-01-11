@@ -30,6 +30,7 @@ consumes: {
       titanium/2
       copper/4
       silicon/1
+      sand/2
     ]
     }
     liquid: {

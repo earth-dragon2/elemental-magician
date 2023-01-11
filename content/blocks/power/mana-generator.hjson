@@ -1,6 +1,6 @@
 type: ConsumeGenerator
 name: Mana Generator
-description: use mana to make power
+description: it produce lot of power and it's super green.
 size: 2
 liquidCapacity: 600
 squareSprite: false 
@@ -48,10 +48,12 @@ drawer: {
 consumes: {
   liquid: mana/1.5
 }
-powerProduction: 30
+powerProduction: 5.9
 category: power
 requirements: [
-  mana-ingot/80
+  graphite/50
+  mana-ingot/100
   mana-infused-metal/10
-  titanium/50
+  titanium/70
+  copper/150
 ]

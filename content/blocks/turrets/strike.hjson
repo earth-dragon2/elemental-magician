@@ -3,9 +3,9 @@ name: Strike
 description: the thunder element turret. a turret shoots lighting bullet.
 health: 500
 size: 3
-reloadTime: 50
+reloadTime: 55
 shootSound: manaShoot
-range: 200
+range: 150
 shots: 1
 ammoUseEffect: casing2
 rotateSpeed: 12
@@ -15,17 +15,15 @@ ammoTypes: {
     type: ArtilleryBulletType
     frontColor: FFFA19
     backColor: FBF725
-    speed: 40
-    damage: 30
+    speed: 42
+    damage: 28
     width: 8
     height: 11
     status: electrified
     statusDuration: 500
-    status: shocked
-    statusDuration: 500
     lifetime: 8
-    lightning: 8
-    lightningLength: 20
+    lightning: 5
+    lightningLength: 14
     lightningDamage: 55
   }
 }

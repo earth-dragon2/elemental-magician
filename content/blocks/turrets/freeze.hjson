@@ -1,7 +1,7 @@
 type: ItemTurret
 name: Freeze
 description: the ice element turret. it can burn enermy with extreme low temperature.
-health: 300
+health: 500
 size: 3
 reload: 50
 chargeTime: 50
@@ -9,7 +9,7 @@ heatColor: ffffff
 firingMoveFract: 8
 shootSound: freeze
 recoil: 3
-range: 100
+range: 300
 shots: 1
 rotateSpeed: 10
 shoot:{
@@ -23,7 +23,7 @@ ammoTypes: {
     type: ShrapnelBulletType
     damage: 200
     width: 30
-    height: 350
+    height: 400
     sideAngle: 15
     sideWidth: 0
     sideLength: 0

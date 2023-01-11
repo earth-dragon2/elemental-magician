@@ -26,9 +26,9 @@ consumes: {
   items: {
     power: 0.3
     items: [
-      mana-ingot/2
       titanium/3
       silicon/1
+      copper/5
     ]
   }
   liquid: {
