@@ -43,7 +43,7 @@ requirements: [
   mana-ingot/60
 ]
 category: crafting
-research: mana-mixer
+research: superior-mana-mixer
 results: [
   mana-infused-metal/4
   mystery/1
