@@ -1,5 +1,5 @@
 {
-type: Separator
+type: GenericCrafter
 name: Mana Injector
 description: to make mana infused metal
 size: 3
