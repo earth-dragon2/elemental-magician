@@ -5,8 +5,7 @@ description: elementallizing mana ingot
 size: 3
 health: 200
 hasItems: true
-craftTime: 25
-updateEffect: smeltsmoke
+craftTime: 30
 updateEffect: smeltsmoke
 drawer: { 
   type: DrawMulti
@@ -48,13 +47,13 @@ requirements: [
   silicon/50
   mana-infused-metal/50
   mana-ingot/60
-  mystery/10
 ]
 category: crafting
 research: mana-injector
 results: [
-  flameite/1
-  frostite/1
-  electricite/1
+  flameite/3
+  frostite/3
+  electricite/3
+  mystery/1
 ]
 }

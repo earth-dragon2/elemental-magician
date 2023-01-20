@@ -1,7 +1,7 @@
 {
 type: Separator
 name: Mana Injector
-description: to make mana infused metal but have a error beause of bad quality
+description: to make mana infused metal
 size: 3
 hasItems: true
 craftTime: 20
@@ -28,24 +28,21 @@ consumes: {
     items: [
       titanium/3
       silicon/1
-      copper/5
+      copper/4
     ]
   }
   liquid: {
     liquid: superior-mana
-    amount: 0.5
+    amount: 0.4
   }
 }
 requirements: [
-  copper/50
-  titanium/100
-  graphite/30
+  copper/150
+  titanium/110
+  graphite/80
   mana-ingot/60
 ]
 category: crafting
 research: superior-mana-mixer
-results: [
-  mana-infused-metal/4
-  mystery/1
-]
+outputItem: mana-infused-metal/2
 }

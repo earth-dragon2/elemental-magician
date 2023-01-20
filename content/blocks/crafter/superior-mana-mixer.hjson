@@ -39,11 +39,11 @@ consumes: {
     }
 }
 requirements: [
-  copper/50
+  copper/120
   mana-ingot/30
   titanium/50
-  lead/30
-  graphite/10
+  lead/130
+  graphite/50
 ]
 category: crafting
 research: mana-extractor

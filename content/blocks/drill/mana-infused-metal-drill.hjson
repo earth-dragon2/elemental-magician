@@ -5,7 +5,7 @@ type: Drill
 health: 500
 size: 3
 liquidCapacity: 10
-baseExplosiveness: 10
+baseExplosiveness: 12
 rotateSpeed: 5
 hasPower: true
 updateEffect: oily
@@ -19,7 +19,7 @@ consumes: {
     liquid: mana
     amount: 0.1
     booster: true
-    optional: false
+    optional: true
   }
 }
 requirements: [
