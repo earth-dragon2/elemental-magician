@@ -33,7 +33,6 @@ consumes: {
     power: 0.1
     items: [
       mana-ingot/1
-      mystery/1
     ]
   }
   liquid: {
@@ -54,6 +53,6 @@ results: [
   flameite/3
   frostite/3
   electricite/3
-  mystery/1
+  darkite/1
 ]
 }
