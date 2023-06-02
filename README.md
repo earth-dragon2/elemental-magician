@@ -1,4 +1,4 @@
-# THIS MOD FINALLY SUPPORT V7!!!!1!!1!11!!1!!!!1!111!!!
+# Final update will release soon and i would never update after this update.
 
 # Warning
 Please test the mod in sandbox to check out is there any bug.
