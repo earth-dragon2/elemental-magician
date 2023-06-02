@@ -1,5 +1,5 @@
 {
-type: Separator
+type: GenericCrafter
 name: Elementallizer
 description: elementallizing mana ingot
 size: 3
@@ -49,10 +49,10 @@ requirements: [
 ]
 category: crafting
 research: mana-injector
-results: [
-  flameite/3
-  frostite/3
-  electricite/3
+outputItems:
+  flameite/1
+  frostite/1
+  electricite/1
   darkite/1
-]
+
 }
